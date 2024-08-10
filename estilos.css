@@ -1,0 +1,136 @@
+/* ESTILO INDEX PRINCIPAL*/
+
+#pagina {
+    background-color: #d9bda4; 
+    display: flow-root;
+    background-size: cover;
+    background-position: center;
+}
+
+/* HEADER */
+
+#titulo {
+    font-weight: bold;
+    color: #493523;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Shadows Into Light";
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hipervinculos {
+    font-family: "Inter";
+    word-spacing: 4px;
+    text-decoration: none;
+    color:#493523
+}
+
+#imagenPrincipal {
+    opacity: 0.8;
+    width: 100%;
+}
+
+.contenedorHipervinculos {
+    display: ruby-text-container;
+    right: 50%;
+    top: 10%;
+    transform: translate(-50%, 0);
+    margin-top: -10x;   
+}
+
+
+#fotoPerfil {
+    border-radius: 40% / 20%;
+}
+
+
+/* ESTILO INDEX PRESENTACIÓN */
+
+#pagina1 #cabecera {
+    background-color: #846041;
+    color: #d9bda4;
+    font-family: "Inter";
+    text-align: center;
+    padding: 15px 0;
+}
+
+#pagina1 h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #493523;
+}
+
+#pagina1 {
+    background-color: #d9bda4;
+}
+
+
+#pagina1 .collage {
+    position: absolute;
+    top: 300px;
+    right: 20px;
+    display: grid;
+}
+
+#pagina1 .collage img {
+    max-width: 100%; 
+    height: auto;
+}
+
+#pagina1 .textos {
+    text-align: center;
+}
+
+/* ESTILO INDEX FORMACIÓN */
+
+#pagina2 {
+    background-color: #c49062;
+    color:beige;
+}
+
+#pagina2 #cabecera1 {
+    background-color: #846041;
+    color: #d9bda4;
+    font-family: "Inter";
+    text-align: center;
+    padding: 15px 0;
+}
+
+#pagina2 h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+
+}
+
+#pagina2 #cabecera2 {
+    background-color: #f4dac4;
+    color: #ef9a4f;
+    font-family: "Inter";
+    text-align: center;
+    padding: 15px 0;
+}
+
+/* ESTILO INDEX EMPRENDIMIENTO */
+
+#pagina3 {
+    background-color: #d9bda4;
+    color: #493523;
+}
+
+#pagina3 h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+#pagina3 #cabecera1 {
+    background-color: #9f8c7c;
+    color: #d9bda4;
+    font-family: "Inter";
+    text-align: center;
+    padding: 15px 0;
+}
